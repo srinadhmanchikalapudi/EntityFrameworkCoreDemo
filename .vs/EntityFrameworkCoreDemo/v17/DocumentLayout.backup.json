@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Srina\\source\\repos\\EntityFrameworkCoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\Migrations\\20241008082757_relation3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D4CFF5-EBAC-4DF1-A61E-D046AF51D1B1}|..\\EF_DataAccess\\EF_DataAccess.csproj|c:\\users\\srina\\source\\repos\\ef_dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB9D253-3B97-4A85-A95B-861AA0A85673}|..\\EF_Models\\EF_Models.csproj|c:\\users\\srina\\source\\repos\\ef_models\\models\\bookauthormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB9D253-3B97-4A85-A95B-861AA0A85673}|..\\EF_Models\\EF_Models.csproj|c:\\users\\srina\\source\\repos\\ef_models\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB9D253-3B97-4A85-A95B-861AA0A85673}|..\\EF_Models\\EF_Models.csproj|c:\\users\\srina\\source\\repos\\ef_models\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\ApplicationDBContext.dgml||{295A0962-5A59-4F4F-9E12-6BC670C15C3B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241008082757_relation3.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\Migrations\\20241008082757_relation3.cs",
+              "RelativeDocumentMoniker": "..\\EF_DataAccess\\Migrations\\20241008082757_relation3.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\Migrations\\20241008082757_relation3.cs",
+              "RelativeToolTip": "..\\EF_DataAccess\\Migrations\\20241008082757_relation3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:27:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookAuthorMap.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\EF_Models\\Models\\BookAuthorMap.cs",
+              "RelativeDocumentMoniker": "..\\EF_Models\\Models\\BookAuthorMap.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\EF_Models\\Models\\BookAuthorMap.cs",
+              "RelativeToolTip": "..\\EF_Models\\Models\\BookAuthorMap.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:54:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\EF_Models\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "..\\EF_Models\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\EF_Models\\Models\\Author.cs",
+              "RelativeToolTip": "..\\EF_Models\\Models\\Author.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:36:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\EF_Models\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\EF_Models\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\EF_Models\\Models\\Book.cs",
+              "RelativeToolTip": "..\\EF_Models\\Models\\Book.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:42:05.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.dgml [Viewer]",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\ApplicationDBContext.dgml",
+              "RelativeDocumentMoniker": "..\\EF_DataAccess\\ApplicationDBContext.dgml",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\ApplicationDBContext.dgml [Viewer]",
+              "RelativeToolTip": "..\\EF_DataAccess\\ApplicationDBContext.dgml [Viewer]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000968|",
+              "WhenOpened": "2024-10-08T05:53:17.998Z",
+              "EditorCaption": " [Viewer]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "..\\EF_DataAccess\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Srina\\source\\repos\\EF_DataAccess\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "..\\EF_DataAccess\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:40:15.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
